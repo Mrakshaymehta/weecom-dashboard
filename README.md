@@ -83,11 +83,6 @@ To deploy your own version:
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of your dashboard here (product table, add/edit dialog, etc.)_
-
----
 
 ## 👨‍💻 Author
 
