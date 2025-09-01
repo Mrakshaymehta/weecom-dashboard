@@ -40,44 +40,55 @@ A small **Product Dashboard** built with **React + Vite + TailwindCSS + shadcn/u
 
 ## 📦 Setup Instructions
 
-# 1️⃣ Clone the repository
+Clone repo and install dependencies:
+
+```bash
 git clone https://github.com/Mrakshaymehta/weecom-dashboard.git
 cd weecom-dashboard
-
-# 2️⃣ Install dependencies
 npm install
+```
 
-# 3️⃣ Run locally (dev mode)
+Run locally:
+
+```bash
 npm run dev
-# (open http://localhost:5173)
+```
 
-# 4️⃣ Build for production
+Build for production:
+
+```bash
 npm run build
+```
 
-# 5️⃣ Preview production build locally
+Preview production build:
+
+```bash
 npm run preview
-# (open http://localhost:4173)
+```
 
-# 6️⃣ Push to GitHub (if not already pushed)
-git init
-git add .
-git commit -m "Initial commit: Product Dashboard with CRUD and bonus features"
-git branch -M main
-git remote add origin https://github.com/Mrakshaymehta/weecom-dashboard.git
-git push -u origin main
+---
 
-# 7️⃣ Deploy to Netlify
-# (No CLI needed, just steps in Netlify dashboard)
-#   - Go to https://app.netlify.com/
-#   - New Site → Import from GitHub
-#   - Select your repo: weecom-dashboard
-#   - Build command: npm run build
-#   - Publish directory: dist
-#   - Deploy
+## 🌍 Deployment
 
-# 8️⃣ Final Live URL (already deployed)
-# 👉 https://weecomdashboard.netlify.app/
+This app is deployed on **Netlify**:  
+👉 [Live Demo](https://weecomdashboard.netlify.app/)
 
-👨‍💻 Author
+To deploy your own version:
 
-Built by Akshay Mehta ✨
+1. Push your repo to GitHub
+2. Go to [Netlify](https://app.netlify.com/)
+3. Add new site → Import from GitHub
+4. Build command: `npm run build`
+5. Publish directory: `dist`
+
+---
+
+## 📸 Screenshots
+
+_Add screenshots of your dashboard here (product table, add/edit dialog, etc.)_
+
+---
+
+## 👨‍💻 Author
+
+Built by **Akshay Mehta** ✨
